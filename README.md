@@ -17,7 +17,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
 - **Enlace**: https://sl1nk.com/gxcdzdq
 - **Conclusiones clave**: Usa int, String; declara como int age = 15;
-- **Práctica**: https://onlinegdb.com/xLso9v9-U_ 👈 **¡No es necesario registrarse!**
+- **Práctica**: https://onlinegdb.com/xdQpnihB1 👈 **¡No es necesario registrarse!**
 ### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
