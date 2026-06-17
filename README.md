@@ -6,7 +6,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 **Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 **Prerrequisitos**: Ninguno
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
-**📂 Repositorio de Código Fuente**: [https://github.com/yourusername/java-fundamentals-courseteamname](https://github.com/yourusername/java-fundamentals-course-teamname)
+**📂 Repositorio de Código Fuente**: https://github.com/1ASI0730-2610-20262-TBL-BrainNova/java-fundamentals-course-Brainova
 ## Secuencia de la Lección
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
