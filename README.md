@@ -15,9 +15,9 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Empieza a programar**: https://www.onlinegdb.com/
 ### Lección 2: Variables y tipos de datos (8 minutos)
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: https://sl1nk.com/gxcdzdq
 - **Conclusiones clave**: Usa int, String; declara como int age = 15;
-- **Práctica**: [Clic para programar](https://replit.com/@your-variables-java) 👈 **¡No es necesario registrarse!**
+- **Práctica**: https://onlinegdb.com/xLso9v9-U_ 👈 **¡No es necesario registrarse!**
 ### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
