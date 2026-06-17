@@ -28,11 +28,17 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
 - **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
 - **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 👈 **¡No necesitas registrarte!**
-### Lección 5: Fundamentos de POO y programas sencillos (15 minutos)
+
+### Lección 5: Fundamentos de POO y programas sencillos (13 minutos)
+
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+
+- **Enlace**: [Ver la lección](https://youtu.be/mFrEv16mNzo)
+
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
-- **Proyecto final**: [Crea tu aplicación POO](https://replit.com/@your-final-java) 👈 **¡Guarda y comparte!**
+
+- **Proyecto final**: [Crea tu aplicación POO](https://onlinegdb.com/et5JHAVfH3) 👈 **¡Guarda y comparte!**
+
 ### Lección 6: Consejos y próximos pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
