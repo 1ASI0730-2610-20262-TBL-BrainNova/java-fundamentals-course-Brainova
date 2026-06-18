@@ -33,11 +33,11 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
 
-- **Enlace**: [Ver la lección](https://youtu.be/mFrEv16mNzo)
+- **Enlace**: https://youtu.be/mFrEv16mNzo
 
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
 
-- **Proyecto final**: [Crea tu aplicación POO](https://onlinegdb.com/et5JHAVfH3) 👈 **¡Guarda y comparte!**
+- **Proyecto final**: https://onlinegdb.com/et5JHAVfH3 
 
 ### Lección 6: Consejos y próximos pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
