@@ -25,9 +25,9 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Práctica**: [Clic para programar](https://jdoodle.com/execute-java-online/your-id) 👈 **¡Inicio inmediato!**
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
 - **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=0OZXgyuzN1Q)
 - **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/o2UDzOvqL) 
 
 ### Lección 5: Fundamentos de POO y programas sencillos (13 minutos)
 
