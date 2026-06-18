@@ -5,66 +5,76 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 **Duración total**: ~60 minutos
 **Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
 **Prerrequisitos**: Ninguno
-**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
-**📂 Repositorio de Código Fuente**: https://github.com/1ASI0730-2610-20262-TBL-BrainNova/java-fundamentals-course-Brainova
+**Herramientas necesarias**: **¡Solo tu navegador web de preferencia!** 
+**Repositorio de Código Fuente**: https://github.com/1ASI0730-2610-20262-TBL-BrainNova/java-fundamentals-course-Brainova
+**Entorno de trabajo**: https://www.onlinegdb.com/
 ## Secuencia de la Lección
-### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
+
+### Lección 1: Introducción a la programación y Java 
 - **Descripción**: Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
-- **Enlace**: https://sl1nk.com/nsvvg8s
-- **Conclusiones clave**: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-- **Empieza a programar**: https://www.onlinegdb.com/
-### Lección 2: Variables y tipos de datos (8 minutos)
+- **Enlace**: https://youtu.be/LeHz0lqli2Y 
+- **Conclusiones clave**: Que significa programar y como empezar a programar en java. 
+
+
+### Lección 2: Introducción a la programación y Java
 - **Descripción**: Aprende a almacenar datos en Java usando variables.
-- **Enlace**: https://sl1nk.com/gxcdzdq
-- **Conclusiones clave**: Usa int, String; declara como int age = 15;
-- **Práctica**: https://onlinegdb.com/xdQpnihB1 👈 **¡No es necesario registrarse!**
-### Lección 3: Estructuras de control: Decisiones y bucles (10 minutos)
+- **Enlace**: https://www.youtube.com/watch?v=Izb24JvZC9c
+- **Conclusiones clave**: Caracteristicas de la programación y el uso del lenguaja Java.
+
+
+### Lección 3: Operadores y expresiones
 - **Descripción**: Toma decisiones con if-else y repite tareas con bucles.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
-- **Conclusiones clave**: if (age > 12) {}; for (int i=0; i<5; i++) {}
-- **Práctica**: https://onlinegdb.com/CqQmUKU-F 👈 **¡Inicio inmediato!**
-### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
-- **Descripción**: Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases/objetos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=0OZXgyuzN1Q)
-- **Conclusiones clave**: public static void greet() {}; Use Scanner; class Pet { String name; }
-- **Práctica**: [Haz clic para practicar](https://onlinegdb.com/o2UDzOvqL) 
+- **Enlace**: https://www.youtube.com/watch?v=GsJBhMlpZhs
+- **Conclusiones clave**: Las estructuras de decisión y bucles permiten que el programa tome decisiones lógicas y repita instrucciones de manera controlada.
 
-### Lección 5: Fundamentos de POO y programas sencillos (13 minutos)
 
+### Lección 4: Métodos y parámetros.
+- **Descripción**: Aprende a capturar datos del usuario por consola y a estructurar código modular mediante funciones y parámetros.
+- **Enlace**: https://www.youtube.com/watch?v=BrkXqPgN5_U
+- **Conclusiones clave**: Separar la captura de datos de la lógica de procesamiento usando métodos es la clave para escribir código limpio, modular y profesional.
+
+
+### Lección 5: Introducción a Programación Orientada a Objetos (POO) y principios básicos de POO
 - **Descripción**: Construye clases con atributos/métodos y crea un programa POO básico.
-
 - **Enlace**: https://youtu.be/mFrEv16mNzo
-
 - **Conclusiones clave**: Encapsulación con getters; Construye un simulador de "mascotas".
 
-- **Proyecto final**: https://onlinegdb.com/et5JHAVfH3 
 
-### Lección 6: Consejos y próximos pasos (10 minutos)
-- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
-- **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+### Lección 6: Estructuras de datos simples y errores típicos
+- **Descripción**: Domina la manipulación de arrays y cadenas integrados con objetos, aplicando buenas prácticas para evitar los errores comunes.
+- **Enlace**: https://youtu.be/dCEi1xAT82c
+- **Consejos clave**: Controlar la manipulación de strings, ordenar las estructuras de datos y entender la memoria evita frustraciones y sube el nivel de tus programas.
+
+
 ## Recursos adicionales
-- **Código fuente completo**: [Repositorio de GitHub](https://github.com/yourusername/java-fundamentals-course-teamname)
+- **Código fuente completo**: https://github.com/yourusername/java-fundamentals-course-teamname)
 - **Todas las actividades prácticas**:
+
 | Número de lección | Actividad | Empezar a programar |
 |----------|----------|-------------|
-| 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
-| 2 | Variables | [Replit](https://replit.com/@your-lesson2) |
-| 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
-| 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
-- Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
-- Compartir: #JavaBeginners
-**¡Gracias por completar el curso!**
+| 1 | Introducción a la programación y Java | https://youtu.be/LeHz0lqli2Y  |
+| 2 | Introducción a la programación y Java | https://www.youtube.com/watch?v=Izb24JvZC9c|
+| 3 | Operadores y expresiones | https://www.youtube.com/watch?v=GsJBhMlpZhs |
+| 4 | Métodos y parámetros. | https://www.youtube.com/watch?v=BrkXqPgN5_U |
+| 5 | Introducción a Programación Orientada a Objetos (POO) y principios básicos de POO | https://youtu.be/mFrEv16mNzo |
+| 6 | Estructuras de datos simples y errores típicos | https://youtu.be/dCEi1xAT82c |
+
 ---
-## 👥 Elaboración
-Universidad Peruana de Ciencias Aplicadas
-Carrera de Ingeniería de Software
-Período 202610
-1ASI0729 Desarrollo de Aplicaciones Open Source
-NRC [Número de NRC]
-**Nombre del equipo**: [Nombre de tu equipo]
-**Líder del equipo**: [Nombres y Apellidos]
-**Integrantes del equipo**: [Nombres y Apellidos]
-**Fecha de entrega**: [Fecha]
+## Elaboración
+Universidad Peruana de Ciencias Aplicadas</br>
+
+Carrera de Ingeniería de Software</br>
+
+Período 20262</br>
+
+1ASI0729 Desarrollo de Aplicaciones Open Source</br>
+
+NRC 2610</br>
+
+**Nombre del equipo**: BrainNova</br>
+
+**Líder del equipo**: Molina Vásquez Manuel Alejandro</br>
+
+**Integrantes del equipo**: Acosta Elera, Abraam Bernabe - Céspedes Pillco, Jarod Jack - Vidal Malaga, Jareth Beycker - Diaz Yurivilca, Sofia</br>
+
+**Fecha de entrega**: 18/06/2026
